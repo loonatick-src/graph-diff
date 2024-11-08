@@ -1,2 +1,2 @@
-pydot
+pydot @git+github.com/chaitanyaK_PL/pydot@main
 pylint
